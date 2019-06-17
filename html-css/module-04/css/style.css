@@ -109,15 +109,16 @@ h2::after {
     width: 201px;
     height: 40px;
     background-color: #323232;
-    padding-left: 13px;
     padding-top: 12px;
+    padding-left: 14px;
+    margin: 0px;
 }
 
 .price {
     float: right;
     width: 54px;
     height: 40px;
-    background-color: #8c8c8c;
+    background-color: #8c8c8c;  
     padding-top: 12px;
     padding-left: 12px;
 }
