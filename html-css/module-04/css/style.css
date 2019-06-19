@@ -20,13 +20,14 @@
     font-size: 30px;
     font-weight: 300;
     text-transform: uppercase;
-    color: #515151;
     float: left;
     margin-top: 38px;
 }
 
 .logo a {
     text-decoration: none;
+    color: #515151;
+    
 }
 
 .logo::first-letter {
